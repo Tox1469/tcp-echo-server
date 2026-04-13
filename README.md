@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/tcp-echo-server/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/tcp-echo-server/actions)
+[![License](https://img.shields.io/github/license/Tox1469/tcp-echo-server?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/tcp-echo-server?style=flat-square)](https://github.com/Tox1469/tcp-echo-server/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/tcp-echo-server?style=flat-square)](https://github.com/Tox1469/tcp-echo-server/stargazers)
+
+---
+
 # tcp-echo-server
 
 Servidor TCP echo mínimo, útil para testes, debugging de rede e exemplos de cliente.
